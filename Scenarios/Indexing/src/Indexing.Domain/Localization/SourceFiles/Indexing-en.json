@@ -1,0 +1,9 @@
+﻿{
+  "culture": "en",
+  "texts": {
+    "EmployeeShouldHaveName": "A employee's name needs to be informed.",
+
+    "DomainServiceOnInsertAndGetIdNullBuilderError": "Product's builder at insert can't be null.",
+    "DomainServiceOnUpdateNullBuilderError": "Product's builder at update can't be null."
+  }
+}

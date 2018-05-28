@@ -1,0 +1,9 @@
+﻿{
+  "culture": "pt-BR",
+  "texts": {
+    "EmployeeShouldHaveName": "Uma funcionário precisa ter um nome informado.",
+
+    "DomainServiceOnInsertAndGetIdNullBuilderError": "Builder de produto ao inserir não pode ser nulo.",
+    "DomainServiceOnUpdateNullBuilderError": "Builder de produto ao atualizar não pode ser nulo."
+  }
+}
